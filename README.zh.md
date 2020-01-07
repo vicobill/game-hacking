@@ -23,7 +23,7 @@
 **反汇编/调试器** | [Hopper](https://www.hopperapp.com/) | [*商业*] *适用于macOS和Linux的强大的反汇编程序，反编译器和调试器。*
 **反汇编/调试器/反编译** | [IDA Pro](https://www.hex-rays.com/products/ida/) | [*商业*] *一种可在Windows，Linux和Mac上运行的多处理器反汇编程序和调试器。 这是反汇编器/反编译器中的超级精英，长存于专业逆向工作者的工具箱中。可免费获得[v7.0限制版](https://www.hex-rays.com/products/ida/support/download_freeware.shtml).*
 **图形调试** | [RenderDoc](https://renderdoc.org/) | [**开源**] *一个独立的图形调试工具，该工具可以在Windows 7-10，Linux或Android上使用Vulkan，D3D11，OpenGL和OpenGL ES或D3D12快捷地进行单帧捕获并对任何应用程序进行详细的自省。 概览视频[在此](https://www.youtube.com/watch?v=EMFG5wmng-M).*
-**图形调试** | [PIX](https://blogs.msdn.microsoft.com/pix/download/) | [Freeware] *Performance tuning and debugging for DirectX games on Windows and Xbox. Blog [在此](https://blogs.msdn.microsoft.com/pix/); video tutorial playlist [在此](https://www.youtube.com/watch?v=thiF3xKT_Qg&index=2&list=PLeHvwXyqearWuPPxh6T03iwX-McPG5LkB&t=0s).*
+**图形调试** | [PIX](https://blogs.msdn.microsoft.com/pix/download/) | [Freeware] *Windows和Xbox上DirectX游戏的性能调整和调试工具. Blog [在此](https://blogs.msdn.microsoft.com/pix/); 视频教程 [在此](https://www.youtube.com/watch?v=thiF3xKT_Qg&index=2&list=PLeHvwXyqearWuPPxh6T03iwX-McPG5LkB&t=0s).*
 **图形工具** | [Ninja Ripper](https://gamebanana.com/tools/5638) | [Freeware] *直接从正在运行的游戏中提取/分割 3D模型 (网格), 纹理, 以及着色器的实用工具。*
 **Hex编辑器** | [HxD Hex编辑器](https://mh-nexus.de/en/hxd/) | [Freeware] *一款快速、基本的Hex编辑器。*
 **Hex编辑器** | [010 编辑器](https://www.sweetscape.com/010editor/) | [*商业*] *极其强大的Hex/文本编辑器*
@@ -35,7 +35,7 @@
 **Java 反编译** | [Helios](https://github.com/helios-decompiler/standalone-app) | [**开源**] *一款全功能的Java逆向工具，可与最新反编译器(Krakatau, Fernflower, CFR, Procyon, Javap, 等.)集成*
 **Java 反编译/调试器** | [Bytecode Viewer](https://github.com/Konloch/bytecode-viewer) | [**开源**] *Java 8 Jar 以及 Android APK 逆向工程套件(反编译器、编辑器、调试器以及其他)。*
 **Java 编辑器** | [Recaf](https://github.com/Col-E/Recaf) | [**开源**] *用于编辑Java游戏/app的二进制文件，而无需hex编辑器或反编译-重编译类*
-**Java 编辑器** | [JByteMod](https://github.com/GraxCode/JByteMod-Beta) | [**开源**] *Used to edit the binary of java games/apps. 用于编辑Java游戏/app的二进制。它可以反编译、分析以及编译字节码。通常比Recaf更可靠，并且具有更多功能。*
+**Java 编辑器** | [JByteMod](https://github.com/GraxCode/JByteMod-Beta) | [**开源**] *用于编辑Java游戏/app的二进制。它可以反编译、分析以及编译字节码。通常比Recaf更可靠，并且具有更多功能。*
 **Flash 反编译** | [JPEXS](https://github.com/jindrapetrik/jpexs-decompiler) | [**开源**] *提取资源，将SWF转换为FLA，编辑ActionScript，替换资源，等等。在Windows，Linux和macOS上均可使用。*
 **Flash 反编译** | [Trillix](http://www.flash-decompiler.com/) | [*商业*] *将SWF转换为FLA并反编译Flash（支持Flash CS6＆CC和ActionScript 3.0）。*
 **Java 反混淆** | [反混淆](https://github.com/java-deobfuscator/deobfuscator) | [**开源**] *一种多合一的Java反混淆器，它将对市场上大多数混淆器所混淆的代码进行反混淆。 随附的GUI [在此](https://github.com/java-deobfuscator/deobfuscator-gui).*
@@ -63,7 +63,7 @@
 **文本/二进制模式扫描器** | [YARA](https://github.com/virustotal/yara) | [**开源**] *创建基于规则的文本或二进制模式描述。非常适合创建自定规则的任务，如识别游戏中的资源、引擎、游戏版本等等。参见 [YARA GUI](https://github.com/sigint9/yaragui) Windows GUI 前端. 以及, 参见 [yarGen](https://github.com/Neo23x0/yarGen) YARA 规则生成器。*
 **Injector** | [Xenos](https://github.com/DarthTon/Xenos) | [**开源**] *Windows DLL注入器, 基于[Blackbone library](https://github.com/DarthTon/Blackbone).*
 **编译器** | [Compiler Explorer](https://github.com/mattgodbolt/compiler-explorer) | [**开源**] *从Web浏览器以交互方式运行编译器并与汇编器交互*
-**内存扫描器/追踪器** | [PSR (Pointer Sequence Reverser)](https://github.com/nccgroup/psr/) | [**开源**] *Traces instructions executed prior to reading/writing from/to the provided address of a data member or object, then highlights relevant instructions, identifies vtable pointers, and more. Relevant whitepaper [在此](https://www.nccgroup.trust/us/our-research/automated-reverse-engineering-of-relationships-between-data-structures-in-c-binaries/?research=Whitepapers).*
+**内存扫描器/追踪器** | [PSR (Pointer Sequence Reverser)](https://github.com/nccgroup/psr/) | [**开源**] *跟踪在读取/写入数据成员或对象的地址之前执行的指令，然后突出显示相关指令，标识vtable指针等. 相关白皮书 [在此](https://www.nccgroup.trust/us/our-research/automated-reverse-engineering-of-relationships-between-data-structures-in-c-binaries/?research=Whitepapers).*
 **内存扫描器/数据结构扫描器** | [XenoScan](https://github.com/nickcano/XenoScan) | [**开源**] *C++编写的Lua脚本化内存扫描器。支持复杂扫描、自定结构以及自动侦测复杂数据结构(链表、二叉树、类实例等)。Expandable with support for emulators. DEFCON Slides [在此](https://github.com/nickcano/XenoScanSlides).*
 
 ### 库、框架、插件等
@@ -120,7 +120,7 @@
 [xortool](https://github.com/hellman/xortool) | A tool to analyze multi-byte xor cipher and guess key length (based on count of equal chars) and key (based on knowledge of most frequent char).
 [GameTutorials](https://github.com/gametutorials/tutorials) | 多语言游戏开发教程列表。大量源码，甚至包含Win32示例（如果你的兴趣在开发Win32游戏训练器这将是不可思议的资源）。站点归档[在此](http://web.archive.org/web/20150330082829/http://www.gametutorials.com:80/).
 
-### General Information
+### 通用信息
 
 标题/链接 | 描述
 ---- | ----
@@ -147,11 +147,11 @@
 [Riot's Approach to Anti-Cheat](https://engineering.riotgames.com/news/riots-approach-anti-cheat) | 大致了解Riot处理反作弊的某些方式。
 [Hacking Minesweeper: Programmatically Place Flags on Mined Blocks](https://www.begin.re/hacking-minesweeper) | [begin.re](https://begin.re)最终挑战, 本教程使用IDA Pro和OllyDbg通过静态和动态分析来演示逆向。
 
-### Interesting/Educational Forum Discussions
+### 兴趣/教育论坛讨论
 
 标题/链接 | 描述
 ---- | ----
-*Note: CEF = Cheat Engine Forum* | [Link to Cheat Engine Forum](http://forum.cheatengine.org/)
+*注意: CEF = Cheat Engine Forum* | [Link to Cheat Engine Forum](http://forum.cheatengine.org/)
 [CEF Discussion - Memory Alignment](http://forum.cheatengine.org/viewtopic.php?p=5733049&sid=49692077918bd226efaef4452c713825#5733049) | 内存对齐的一般讨论。
 [CEF Discussion - Mono: Instances and Invoking via Cheat Engine](http://forum.cheatengine.org/viewtopic.php?t=605305) | 简短的教程，演示如何使用CheatEngine的Mono功能，“查找类实例”和“调用方法”。
 [CEF Discussion - Deallocating Memory in createThread() Script](http://forum.cheatengine.org/viewtopic.php?p=5722316#5722316) | x86和x64中的脚本示例显示了如何在createThread()脚本中释放内存。
