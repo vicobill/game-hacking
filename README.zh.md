@@ -64,7 +64,7 @@
 **Injector** | [Xenos](https://github.com/DarthTon/Xenos) | [**开源**] *Windows DLL注入器, 基于[Blackbone library](https://github.com/DarthTon/Blackbone).*
 **编译器** | [Compiler Explorer](https://github.com/mattgodbolt/compiler-explorer) | [**开源**] *从Web浏览器以交互方式运行编译器并与汇编器交互*
 **内存扫描器/追踪器** | [PSR (Pointer Sequence Reverser)](https://github.com/nccgroup/psr/) | [**开源**] *跟踪在读取/写入数据成员或对象的地址之前执行的指令，然后突出显示相关指令，标识vtable指针等. 相关白皮书 [在此](https://www.nccgroup.trust/us/our-research/automated-reverse-engineering-of-relationships-between-data-structures-in-c-binaries/?research=Whitepapers).*
-**内存扫描器/数据结构扫描器** | [XenoScan](https://github.com/nickcano/XenoScan) | [**开源**] *C++编写的Lua脚本化内存扫描器。支持复杂扫描、自定结构以及自动侦测复杂数据结构(链表、二叉树、类实例等)。Expandable with support for emulators. DEFCON Slides [在此](https://github.com/nickcano/XenoScanSlides).*
+**内存扫描器/数据结构扫描器** | [XenoScan](https://github.com/nickcano/XenoScan) | [**开源**] *C++编写的Lua脚本化内存扫描器。支持复杂扫描、自定结构以及自动侦测复杂数据结构(链表、二叉树、类实例等)。支持模拟器扩展. DEFCON Slides [在此](https://github.com/nickcano/XenoScanSlides).*
 
 ### 库、框架、插件等
 
@@ -117,7 +117,7 @@
 [Portal 2 Trainer](https://github.com/RedMage1993/Portal2Hack) | 用于Portal 2的黑客/自动机器人，演示了C ++和Win32编程，包括GUI，多线程和外部/远程进程内存操作。
 [Game Hacking (Book) Code Repo](https://github.com/GameHackingBook/GameHackingCode) | 这是[Game Hacking](https://www.nostarch.com/gamehacking).一书中所有目标和示例的代码仓库。
 [pdbWriter](https://github.com/SuperIronBob/pdbWriter) | 通过可执行文件符号地址生成虚拟pdb(思考: 从IDA移植工作，以通过CheatEngine进行动态分析，这将应用你自定义PDB中的符号).
-[xortool](https://github.com/hellman/xortool) | A tool to analyze multi-byte xor cipher and guess key length (based on count of equal chars) and key (based on knowledge of most frequent char).
+[xortool](https://github.com/hellman/xortool) | 一种用于分析多字节异或密码并猜测密钥长度（基于相等字符数）和密钥（基于最常见字符的知识）的工具
 [GameTutorials](https://github.com/gametutorials/tutorials) | 多语言游戏开发教程列表。大量源码，甚至包含Win32示例（如果你的兴趣在开发Win32游戏训练器这将是不可思议的资源）。站点归档[在此](http://web.archive.org/web/20150330082829/http://www.gametutorials.com:80/).
 
 ### 通用信息
